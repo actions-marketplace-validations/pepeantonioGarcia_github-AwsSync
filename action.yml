@@ -1,4 +1,4 @@
-name: Sync up to AWS CodeCommit Action
+name: Sync up to AWS CodeCommit Action to certainbranch
 description: 'Synchronize from GitHub to CodeCommit via GitHub Actions. No need to ssh-private-key. Need to AWS IAM Credentials only.'
 author: 'joseGarcia'
 branding:
